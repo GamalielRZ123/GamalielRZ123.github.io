@@ -1,4 +1,4 @@
-# GamalielRZ123.github.io
+
 ## Bienvenido a la pagina curriculum!
 **instalacion:**
 debes tener instalado brackets 
