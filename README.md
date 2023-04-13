@@ -15,5 +15,5 @@
     <th colspan = "7" bgcolor = "BurlyWood"> Mi perfil </ th>
     <a href="mi%20cv.html">Mi perfil denise </a>
     
-    <tr>
+    
 
